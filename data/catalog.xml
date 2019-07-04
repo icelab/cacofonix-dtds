@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN"
+    "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <!-- 2.0 -->
+  <system systemId="http://www.editeur.org/onix/2.0/reference/onix-international.dtd" uri="2.0/onix-international.dtd"/>
+
+  <!-- 2.1 (no release specified, use latest) -->
+  <system systemId="http://www.editeur.org/onix/2.1/reference/onix-international.dtd" uri="2.1r4/reference/onix-international.dtd"/>
+  <system systemId="http://www.editeur.org/onix/2.1/short/onix-international.dtd" uri="2.1r4/short/onix-international.dtd"/>
+
+  <!-- 2.1r1 -->
+  <system systemId="http://www.editeur.org/onix/2.1/01/reference/onix-international.dtd" uri="2.1r1/onix-international.dtd"/>
+
+  <!-- 2.1r2 -->
+  <system systemId="http://www.editeur.org/onix/2.1/02/reference/onix-international.dtd" uri="2.1r2/onix-international.dtd"/>
+
+  <!-- 2.1r3 -->
+  <system systemId="http://www.editeur.org/onix/2.1/03/reference/onix-international.dtd" uri="2.1r3/reference/onix-international.dtd"/>
+  <system systemId="http://www.editeur.org/onix/2.1/03/short/onix-international.dtd" uri="2.1r3/short/onix-international.dtd"/>
+
+  <!-- 2.1r4 -->
+  <system systemId="http://www.editeur.org/onix/2.1/04/reference/onix-international.dtd" uri="2.1r4/reference/onix-international.dtd"/>
+  <system systemId="http://www.editeur.org/onix/2.1/04/short/onix-international.dtd" uri="2.1r4/short/onix-international.dtd"/>
+</catalog>
